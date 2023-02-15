@@ -69,7 +69,7 @@ paper for a non-specialist reader. Your submission should probably be around 100
 words (or around two pages).
 
 The goal is that someone reading the JOSE paper has enough information to decide
-if they'd be interested in adoping the learnig module or software. Readers will
+if they'd be interested in adoping the learning module or software. Readers will
 want to know how the content/software has been used, and how they would adopt it.
 They may also want to be persuaded that the authors have put careful work on
 creating the material, and have experience teaching with it.
