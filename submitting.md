@@ -62,7 +62,7 @@ JOSE papers should:
 - For software submissions, describe the functionality of the software, usage and recent experience of use in teaching and learning situations.
 - For learning modules, describe the learning objectives, content, instructional design, and experience of use in teaching and learning situations.
 - Tell us the "story" of the project: how did it come to be?
-- Cite key references, including a link to the open archive of the sofware or the learning module.
+- Cite key references, including a link to the open archive of the software or the learning module.
 
 JOSE welcomes submissions with diverse educational contexts. You should write your
 paper for a non-specialist reader. Your submission should probably be around 1000
@@ -245,7 +245,7 @@ citations in the paper body following correct [Markdown citation syntax](https:/
 Submission is as simple as:
 
 - Filling in the [short submission form](http://jose.theoj.org/papers/new)
-- Waiting for the managing editor to start a pre-review issue over in the JOSS reviews repository: https://github.com/openjournals/jose-reviews
+- Waiting for the managing editor to start a pre-review issue over in the JOSS reviews repository: [https://github.com/openjournals/jose-reviews](https://github.com/openjournals/jose-reviews)
 
 ## No submission fees
 
