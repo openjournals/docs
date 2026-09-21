@@ -1,6 +1,8 @@
 Submitting a paper to JOSE
 ==========================
 
+> **Submissions are currently paused.** JOSE is not accepting new submissions while its board deliberates eligibility changes. Check the [JOSE homepage](https://jose.theoj.org/) for the latest status before beginning venue-specific preparation or attempting a submission.
+
 Preparing your JOSE submission should be a simple task, once you have a complete
 software or learning module you wish to publish.
 
